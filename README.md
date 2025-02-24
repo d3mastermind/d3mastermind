@@ -4,7 +4,7 @@
 - Bring That broken app, i'll fix it.
 - I'm the developer that other developers trust when they need things done well and quickly.
 
-  ![Animation](https://github.com/d3mastermind/Portfolio_Files/blob/main/Animation.gif)
+  ![Animation](https://lottie.host/embed/2d6b510f-0a3b-4c32-962a-21333ce526c5/wAcVuemwn0.lottie)
 
 I build high-quality mobile apps that are:
 - Smooth and bug-free
