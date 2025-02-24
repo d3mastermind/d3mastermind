@@ -10,6 +10,10 @@ I build high-quality mobile apps that are:
 - Responsive
 - Integrated with modern technologies (APIs, payment gateways, Firebase, Riverpod, AI )- you name it
 
+
+![Animation](https://github.com/d3mastermind/Portfolio_Files/blob/main/animation.gif)
+
+
 ## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
