@@ -4,6 +4,8 @@
 - Bring That broken app, i'll fix it.
 - I'm the developer that other developers trust when they need things done well and quickly.
 
+  ![Animation](https://github.com/d3mastermind/Portfolio_Files/blob/main/Animation.gif)
+
 I build high-quality mobile apps that are:
 - Smooth and bug-free
 - Packed with the features you need
