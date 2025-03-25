@@ -29,6 +29,8 @@ I build high-quality mobile apps that are:
 
 ## 🚀 Featured Projects
 
+---
+
 ### Housify
 A direct housing marketplace connecting landlords with tenants.
 - **Role**: Lead Developer
@@ -41,6 +43,8 @@ A direct housing marketplace connecting landlords with tenants.
 
 📱 [Watch Video Demo](Housify.mp4)
 
+---
+
 ### Trade Wize
 A sophisticated trading platform enabling users to copy trades from experienced administrators.
 - **Features**: Multi-tier accounts, in-app subscriptions, auto trading, alert notifications, deep links
@@ -50,6 +54,8 @@ A sophisticated trading platform enabling users to copy trades from experienced 
 ![Trade Wize](TradeWize.png)
 
 📱 [Watch Video Demo](tradewizeapp.mp4)
+
+---
 
 ### Telex Mobile
 A fast and secure chat app designed for teams, featuring real-time messaging, mentions (@channel, @here), and seamless collaboration.
@@ -61,6 +67,8 @@ A fast and secure chat app designed for teams, featuring real-time messaging, me
 #### Preview
 ![Telex Mobile](Telex.png)
 
+---
+
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 - **Role**: WordPress API Integration Specialist
@@ -71,7 +79,7 @@ The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 
 📱 [Watch Video Demo](SLNMobile.mp4)
 
-
+---
 
 ### Telex Desktop
 The desktop companion for Telex, bringing all the power of team communication to a larger screen.
@@ -83,6 +91,8 @@ The desktop companion for Telex, bringing all the power of team communication to
 #### Preview
 ![Telex Desktop](telexdesk.png)
 
+---
+
 ### Trade Wize Admin
 Web administration panel for the Trade Wize platform.
 - **Features**: Trade management, user subscription oversight, automated trade execution
@@ -90,6 +100,8 @@ Web administration panel for the Trade Wize platform.
 
 #### Preview
 ![Trade Wize Admin](tradewizeadmin.png)
+
+---
 
 ### Meat Inventory App
 A smart inventory management app for meat vendors, revolutionizing stock control and sales tracking.
@@ -100,6 +112,8 @@ A smart inventory management app for meat vendors, revolutionizing stock control
 
 #### Preview
 ![Meat Inventory App](MeatInventory.png)
+
+---
 
 > Note: Most of the applications listed above are client projects, hence only video demonstrations are available.
 
