@@ -58,11 +58,11 @@ A sophisticated trading platform enabling users to copy trades from experienced 
 ---
 
 ### Telex Mobile
-A fast and secure chat app designed for teams, featuring real-time messaging, mentions (@channel, @here), and seamless collaboration.
-- **Role**: Lead Mobile Developer
+A fast and secure Slack like chat app designed for teams, featuring real-time messaging, AI agents, seamless collaboration and so much more...
+- **Role**: Mobile Developer (Team Member)
 - **Technologies**: Flutter, Firebase, Riverpod
-- **Features**: Real-time messaging, @mentions, file sharing, team collaboration
-- **Technical**: WebSocket integration, push notifications, message encryption
+- **Features**: Real-time messaging,file sharing, team collaboration, AI agents etc
+- **Technical**: WebSocket integration, push notifications, message encryption, AI integration etc
 
 #### Preview
 ![Telex Mobile](Telex.png)
@@ -71,7 +71,8 @@ A fast and secure chat app designed for teams, featuring real-time messaging, me
 
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
-- **Role**: WordPress API Integration Specialist
+- **Role**: Mobile Developer (Team Member)
+- **Contribution**: Collaborated on WordPress API integration and mobile app development
 - **Achievement**: Successfully translated web functionality to mobile platform
 
 #### Preview
@@ -83,7 +84,7 @@ The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 
 ### Telex Desktop
 The desktop companion for Telex, bringing all the power of team communication to a larger screen.
-- **Role**: Desktop App Developer
+- **Role**: Desktop Developer (Team Member)
 - **Technologies**: Flutter Desktop, Firebase
 - **Features**: Enhanced productivity tools, screen sharing, keyboard shortcuts
 - **Technical**: Cross-platform compatibility, native OS integration
@@ -108,7 +109,7 @@ A smart inventory management app for meat vendors, revolutionizing stock control
 - **Role**: Full-stack Developer
 - **Technologies**: Flutter, Firebase, Cloud Functions
 - **Features**: Real-time inventory tracking, sales analytics, supplier management
-- **Technical**: Barcode scanning, automated stock alerts, reporting system
+- **Technical**: Automated low stock alerts.
 
 #### Preview
 ![Meat Inventory App](MeatInventory.png)
