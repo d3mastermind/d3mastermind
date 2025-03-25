@@ -41,7 +41,7 @@ A direct housing marketplace connecting landlords with tenants.
 #### Preview
 ![Housify](Housify.png)
 
-📱 [Watch Video Demo](Housify.mp4)
+📱 [Watch Video Demo](https://drive.google.com/file/d/15GNYJxd6kd3RhKSmTOfPv5zYvYkMX7Xp)
 
 ---
 
@@ -53,7 +53,7 @@ A sophisticated trading platform enabling users to copy trades from experienced 
 #### Preview
 ![Trade Wize](TradeWize.png)
 
-📱 [Watch Video Demo](tradewizeapp.mp4)
+📱 [Watch Video Demo](https://drive.google.com/file/d/1-ePBj0OWzARp6LuyWaR9gI8kHbqDJxAn)
 
 ---
 
@@ -69,6 +69,19 @@ A fast and secure Slack like chat app designed for teams, featuring real-time me
 
 ---
 
+### MyCards
+A mobile application for creating and customizing greeting cards for various occasions and events.
+- **Role**: Solo Developer & Designer
+- **Technologies**: Flutter, Firebase, Riverpod
+- **Features**: Custom card creation, template editing and card sharing
+
+#### Preview
+![MyCards](Mycards.png)
+
+📱 [Watch Video Demo](https://drive.google.com/file/d/1-fGRbpvS_025r4K4fFJX4D0ddITfnPRI)
+
+---
+
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 - **Role**: Mobile Developer (Team Member)
@@ -78,7 +91,7 @@ The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 #### Preview
 ![SLN Mobile](SLnMobile.png)
 
-📱 [Watch Video Demo](SLNMobile.mp4)
+📱 [Watch Video Demo](https://drive.google.com/file/d/15D8v0b4LUybhw-5RtcH-wMS1Fil2WegI)
 
 ---
 
@@ -119,9 +132,6 @@ A smart inventory management app for meat vendors, revolutionizing stock control
 > Note: Most of the applications listed above are client projects, hence only video demonstrations are available.
 
 Feel free to explore my repositories for personal projects. Currently working on a billion dollar app idea that could be the next big thing in mobile applications - don't be surprised when you see me as CEO and Founder. Stay tuned! 🚀
-
-
-
 
 
 
