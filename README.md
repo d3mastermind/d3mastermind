@@ -4,14 +4,11 @@
 - Bring That broken app, i'll fix it.
 - I'm the developer that other developers trust when they need things done well and quickly.
 
-![Animation](https://github.com/d3mastermind/Portfolio_Files/blob/ad2b226c08092db9f5bfb1dc7cb355f5ec6d71c3/animation.gif)
-
 I build high-quality mobile apps that are:
 - Smooth and bug-free
 - Packed with the features you need
 - Responsive
 - Integrated with modern technologies (APIs, payment gateways, Firebase, Riverpod, AI )- you name it
-
 
 ## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
@@ -32,42 +29,81 @@ I build high-quality mobile apps that are:
 
 ## 🚀 Featured Projects
 
-### MyCards
-A mobile application for creating and customizing greeting cards for various occasions and events.
-- **Role**: Solo Developer & Designer
-- **Technologies**: Flutter, Firebase, Riverpod
-- **Features**: Custom card creation, event management
+### Housify
+A direct housing marketplace connecting landlords with tenants.
+- **Role**: Lead Developer
+- **Technologies**: Flutter, Firebase, Payment Gateway Integration
+- **Features**: Verified listings, escrow payments, rental management
+- **Technical**: Location-based search, document verification, secure payments
 
-[watch the Video Preview here](https://github.com/d3mastermind/Portfolio_Files/blob/main/mycards.gif)
-![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/mycards.gif)
+#### Preview
+![Housify](Housify.png)
 
+📱 [Watch Video Demo](Housify.mp4)
 
 ### Trade Wize
 A sophisticated trading platform enabling users to copy trades from experienced administrators.
 - **Features**: Multi-tier accounts, in-app subscriptions, auto trading, alert notifications, deep links
 - **Technical**: Custom API integration, complex data management
 
-![watch the Video Preview here](https://github.com/d3mastermind/Portfolio_Files/blob/main/tradewizeapp.mp4)
-![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/tradewizeapp.gif)
+#### Preview
+![Trade Wize](TradeWize.png)
 
+📱 [Watch Video Demo](tradewizeapp.mp4)
+
+### Telex Mobile
+A fast and secure chat app designed for teams, featuring real-time messaging, mentions (@channel, @here), and seamless collaboration.
+- **Role**: Lead Mobile Developer
+- **Technologies**: Flutter, Firebase, Riverpod
+- **Features**: Real-time messaging, @mentions, file sharing, team collaboration
+- **Technical**: WebSocket integration, push notifications, message encryption
+
+#### Preview
+![Telex Mobile](Telex.png)
 
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 - **Role**: WordPress API Integration Specialist
 - **Achievement**: Successfully translated web functionality to mobile platform
 
-[Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.)
+#### Preview
+![SLN Mobile](SLnMobile.png)
 
+📱 [Watch Video Demo](SLNMobile.mp4)
+
+
+
+### Telex Desktop
+The desktop companion for Telex, bringing all the power of team communication to a larger screen.
+- **Role**: Desktop App Developer
+- **Technologies**: Flutter Desktop, Firebase
+- **Features**: Enhanced productivity tools, screen sharing, keyboard shortcuts
+- **Technical**: Cross-platform compatibility, native OS integration
+
+#### Preview
+![Telex Desktop](telexdesk.png)
 
 ### Trade Wize Admin
 Web administration panel for the Trade Wize platform.
 - **Features**: Trade management, user subscription oversight, automated trade execution
 - **Technologies**: Web technologies, real-time updates
-[Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/)
 
-> Note: The applications listed above are client projects, hence only video demonstrations are available.
+#### Preview
+![Trade Wize Admin](tradewizeadmin.png)
 
-Feel free to explore my repositories for personal projects. Currently working on a bllion dollar app idea that could be the next big thing in mobile applications don't be suprised when you see me as CEO and Founder Stay tuned! 🚀
+### Meat Inventory App
+A smart inventory management app for meat vendors, revolutionizing stock control and sales tracking.
+- **Role**: Full-stack Developer
+- **Technologies**: Flutter, Firebase, Cloud Functions
+- **Features**: Real-time inventory tracking, sales analytics, supplier management
+- **Technical**: Barcode scanning, automated stock alerts, reporting system
+
+#### Preview
+![Meat Inventory App](MeatInventory.png)
+
+> Note: Most of the applications listed above are client projects, hence only video demonstrations are available.
+
+Feel free to explore my repositories for personal projects. Currently working on a billion dollar app idea that could be the next big thing in mobile applications - don't be surprised when you see me as CEO and Founder. Stay tuned! 🚀
 
 
 
