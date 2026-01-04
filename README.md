@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Emmanuel, the Mastermind and I build mobile app solutions with flutter.
+👋 Hi, I build mobile app solutions with flutter.
 - Bring that app idea, I'll build it.
 - Bring That broken app, i'll fix it.
 - I'm the developer that other developers trust when they need things done well and quickly.
