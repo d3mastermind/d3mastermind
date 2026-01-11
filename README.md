@@ -43,8 +43,6 @@ A mobile application for creating and customizing greeting cards for various occ
 #### Preview
 ![MyCards](Mycards.png)
 
-📱 [Watch Video Demo](https://drive.google.com/file/d/1-fGRbpvS_025r4K4fFJX4D0ddITfnPRI)
-
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mind.mycards&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/ng/app/mycards-greeting-cards/id6751824995)
 
 ---
