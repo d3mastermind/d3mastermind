@@ -120,7 +120,7 @@ A suite of internal mobile applications for tailored operational workflows and c
 - **Technologies**: Flutter, Custom Backend.
 
 #### Preview
-![Republic Club](placeholder_republic.png)
+![Republic Club](republicClub.png)
 
 
 
