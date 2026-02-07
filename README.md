@@ -24,11 +24,11 @@ I build high-quality mobile apps that are:
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)
 
-
-## 🌐 Connect With Me
+<!--  ## 🌐 Connect With Me
 [![Twitter](https://img.shields.io/badge/twitter-1769ff?logo=x&logoColor=white)](https://x.com/d3Mastermind) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/h6ko0p) 
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:adewoleemmanuel36@gmail.com) 
+-->
 
 ## 🚀 Featured Projects
 
